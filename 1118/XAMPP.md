@@ -19,4 +19,13 @@ config => HTTP設定檔
 
 =>輸入網址 XXX.XX.XXX.XXX/Solution/index.html   
 
+--------------------------------------------  
+建立新目錄  
+
+在xampp=>htdocs=>創建資料夾  (檔名假設4100E113)
+
+使用Notepad++ =>另存HTML  
+
+http://XXX.XX.XXX.XX/4100E113/index.html
+ 
 
