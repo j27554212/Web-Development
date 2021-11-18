@@ -22,3 +22,6 @@ p {
 <iframe width="896" height="504" src="https://www.youtube.com/embed/O5dvU4o2X8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="896" height="504" src="https://www.youtube.com/embed/go0nYN_BmbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="896" height="504" src="https://www.youtube.com/embed/COGXH8sZZ2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+![擷取4](https://user-images.githubusercontent.com/90737564/142376749-fc3b94a0-4263-4805-92e8-dfee7d87cc31.PNG)
